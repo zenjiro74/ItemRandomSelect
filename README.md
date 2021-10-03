@@ -1,1 +1,3 @@
 # ItemRandomSelect
+
+ViewBinding
