@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">なんでもルーレット</string>
+    <string name="btn_start">ルーレット開始</string>
+    <string name="btn_stop">ルーレット停止</string>
+    <string name="btn_items">項目変更</string>
+
+    <string name="label_desc">ルーレットのアプリです。好きな項目を変更してみてね</string>
+
+    <string name="items_title">項目の変更</string>
+    <string name="items_text">項目の変更を行えます\nカンマで区切ってください</string>
+</resources>
