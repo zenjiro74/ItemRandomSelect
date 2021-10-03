@@ -1,7 +1,5 @@
 package com.example.zenjiro74.randomselect
 
-import com.example.zenjiro74.randomselect.Repository
-import com.example.zenjiro74.randomselect.RepositoryImpl
 import dagger.Binds
 import dagger.Module
 import dagger.hilt.InstallIn
